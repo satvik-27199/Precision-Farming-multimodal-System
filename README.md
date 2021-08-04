@@ -1,1 +1,3 @@
 # Precision-Farming-multimodal-System
+
+https://www.researchgate.net/publication/353208722_Towards_a_Multimodal_System_for_Precision_Agriculture_using_IoT_and_Machine_Learning
